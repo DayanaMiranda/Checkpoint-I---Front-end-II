@@ -42,7 +42,7 @@ if(tipo.checked) {
 
 //checkbox
 let indic = document.getElementById('sim');
-  indic.checked ? indiccheck = 'Indica' : indiccheck = 'Não indica';
+  indic.checked ? indiccheck = 'Eu indico 👍🏽' : indiccheck = 'Não indico 👎🏽';
   let simindica = document.createElement('p');
   simindica.innerText = indiccheck;
   filmescard.appendChild(simindica);
