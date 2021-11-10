@@ -4,7 +4,7 @@
 
 - Dayana Miranda <a href="https://github.com/DayanaMiranda">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 - Kantuta Molina <a href="https://github.com/KantutaMolina">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-- Luana Borges
+- Luana Borges <a href="https://github.com/Luanableal">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ### Gerador de card de filmes 🎬
 </br>
